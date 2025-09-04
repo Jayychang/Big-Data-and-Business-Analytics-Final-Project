@@ -1,1 +1,5 @@
 This project provides a data-driven consulting analysis for clients seeking to invest in Spain’s short-term rental market. Using 2024 Airbnb data, we identify the most profitable cities and property types, analyze which attributes most influence revenue, and develop predictive models to guide strategic investment decisions. The final deliverable offers actionable recommendations to maximize profitability in the competitive Airbnb landscape.
+
+Click on "Airbnb Revenue Analysis Project" to view the code and its output.
+
+Click on "Airbnb Revenue Analysis Presentation" to view the professional report and presentation.
